@@ -1,0 +1,30 @@
+_repo: Leisure-hours-among-the-gems_69560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamlin, Augustus C. (Augustus Choate)
+    alias: Hamlin, Augustus Choate
+    birthdate: 1829
+    deathdate: 1905
+    gutenberg_agent_id: '39076'
+    url: http://www.gutenberg.org/2009/agents/39076
+description: ''
+gutenberg_issued: '2022-12-16'
+identifiers:
+  gutenberg: '69560'
+language: en
+pgterms:marc904: https://archive.org/details/leisurehoursamon00haml/page/n9/mode/2up
+pgterms:marc905: 20200514231805hamlin
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: Houghton, Mifflin and Company,1884,pubdate 1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Leisure hours among the gems
+url: http://www.gutenberg.org/ebooks/69560
