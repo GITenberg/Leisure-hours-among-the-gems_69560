@@ -1,5 +1,8 @@
 _repo: Leisure-hours-among-the-gems_69560
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69560-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamlin, Augustus C. (Augustus Choate)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39076'
     url: http://www.gutenberg.org/2009/agents/39076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69560#Leisure-hours-among-the-gems
 gutenberg_issued: '2022-12-16'
 identifiers:
   gutenberg: '69560'
